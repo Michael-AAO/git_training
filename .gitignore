@@ -1,0 +1,4 @@
+#ignore .dat files
+*.dat
+#!test.dat
+bak/
